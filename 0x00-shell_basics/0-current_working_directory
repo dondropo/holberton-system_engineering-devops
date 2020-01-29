@@ -1,1 +1,4 @@
+#!/bin/bash
+#for print the absolute path name of the current working directory.
+
 pwd
