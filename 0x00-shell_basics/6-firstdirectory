@@ -1,0 +1,4 @@
+#!/bin/bash
+#create a directory named holberton in the /tmp/ directory
+mkdir holberton /tmp
+
