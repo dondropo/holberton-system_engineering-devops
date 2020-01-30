@@ -1,1 +1,2 @@
 #!/bin/b
+chmod ugo+x
