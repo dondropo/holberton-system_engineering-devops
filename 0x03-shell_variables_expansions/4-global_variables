@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | $VARIABLE
+ls | wc -l
