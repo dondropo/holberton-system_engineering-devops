@@ -1,2 +1,2 @@
 #!/bin/bash
-((128 + TRUEKNOWLEDGE))
+export TRUEKNOWLEDGE=1209 | ((128 + TRUEKNOWLEDGE))
