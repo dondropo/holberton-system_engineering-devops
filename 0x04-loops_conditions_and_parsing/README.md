@@ -3,11 +3,11 @@
 ## Resources
 _Read or watch:_
 
-[Loops sample](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html)
-[Variable assignment and arithmetic](http://tldp.org/LDP/abs/html/ops.html)
-[Comparison operators](http://tldp.org/LDP/abs/html/comparison-ops.html)
-[File test operators](http://tldp.org/LDP/abs/html/fto.html)
-[Make your scripts portable](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
+* [Loops sample](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html)
+* [Variable assignment and arithmetic](http://tldp.org/LDP/abs/html/ops.html)
+* [Comparison operators](http://tldp.org/LDP/abs/html/comparison-ops.html)
+* [File test operators](http://tldp.org/LDP/abs/html/fto.html)
+* [Make your scripts portable](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
 
 _man or help:_
 * env
