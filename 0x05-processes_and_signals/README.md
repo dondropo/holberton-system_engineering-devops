@@ -24,7 +24,7 @@ _man or help:_
 * What are the 2 signals that cannot be ignored
 
 ## Requirements
-###General
+### General
 * Allowed editors: vi, vim, emacs
 * All your files will be interpreted on Ubuntu 14.04 LTS
 * All your files should end with a new line
@@ -38,3 +38,4 @@ _man or help:_
 Alejandro Rusca Moreno
 * [GitHub](https://github.com/dondropo)
 * [Twitter](https://twitter.com/don_dropo)
+* [Linkedin](https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/)
