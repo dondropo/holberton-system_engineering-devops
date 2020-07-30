@@ -22,7 +22,7 @@ _man or help:_
 * passwd (5) (i.e. man 5 passwd)
 
 ## Learning Objectives
-At the end of this project you will have to understand:
+At the end of this project you have to understand:
 
 * What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 * How to redirect standard output to a file
