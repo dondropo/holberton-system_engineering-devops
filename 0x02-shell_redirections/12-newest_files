@@ -1,2 +1,3 @@
 #!/bin/bash
-head *
+#displays the 10 newest files in the current directory.
+ls -t | head
