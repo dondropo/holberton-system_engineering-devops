@@ -1,6 +1,5 @@
 #!/bin/bash
-# Script that connects to a server using ssh
-# With its private key
+# Script that connects to a server using ssh with the privaye key
 
 ssh -i ~/.ssh/holberton ubuntu@34.75.86.172
 
