@@ -19,4 +19,4 @@
 * The second line of all your Bash scripts should be a comment explaining what is the script doing
 
 # Author
-Alejandro Rusca Moreno [GitHub](https://github.com/dondropo) [Twitter](https://twitter.com/don_dropo)[Linkedin](https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/)
+Alejandro Rusca Moreno [GitHub](https://github.com/dondropo) [Twitter](https://twitter.com/don_dropo) [Linkedin](https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/)
