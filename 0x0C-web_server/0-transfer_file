@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#bash script that transfers a file from our client to a server
+#script that transfers a file from our client to a server
 pathtofile="$1"
 ipaddr="$2"
 username="$3"
