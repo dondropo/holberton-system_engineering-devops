@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# install nginx to create html pages
+sudo apt-get -y update
+sudo apt-get -y install nginx
+
+echo "Holberton School" > /var/www/html/index.html
+sudo service nginx start
+
+replaced_string="\\\trewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;"
+sudo sed -i "26i $replaced_string" /etc/nginx/sites-available/default
+sudo service nginx restart
+sudo service nginx reload
+
