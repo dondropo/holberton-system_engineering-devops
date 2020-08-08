@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# script that configures apache
+
+sudo service apache2 start
+
