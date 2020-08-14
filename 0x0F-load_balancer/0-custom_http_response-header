@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
-# Configure custom HTTP custom response header
+# Configure custom HTTP response header
+
+sudo apt-get -y update
+sudo apt-get -y install nginx
+echo "Holberton School" > /var/www/html/index.html
+sudo service nginx start
 sudo sed -i "/listen 80 default_server/a add_header X-Served-By $HOSTNAME;" /etc/nginx/sites-available/default
 
