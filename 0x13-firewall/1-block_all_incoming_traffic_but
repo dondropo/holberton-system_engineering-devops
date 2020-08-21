@@ -1,0 +1,9 @@
+#!/bin/env bash
+#Install and configure ufw on web-01
+sudo apt-get -y update
+sudo apt-get install ufw
+sudo ufw allow ssh/tcp
+sudo ufw allow 443/tcp
+sudo ufw allow 80/tcp
+sudo ufw enable
+
