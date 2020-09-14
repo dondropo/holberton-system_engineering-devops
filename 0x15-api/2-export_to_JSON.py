@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Export data in JSON format"""
-from sys import argv
-import requests as r
 import json
+import requests as r
+from sys import argv
 
 
 if __name__ == '__main__':
