@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Use provided Rest API for TODO list"""
+"""Use provided Rest API for todo list"""
 
 
 from sys import argv
